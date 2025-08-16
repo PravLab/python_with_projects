@@ -7,8 +7,7 @@ ready = input("are you ready to play?  ")  # here we have input came from user
 if ready.lower() != "yes":
     print("ok no problem write 'yes' to play.")
     quit()
-0fvvvvvvvv
-gggggggg
+    
 score = 0
 
 
